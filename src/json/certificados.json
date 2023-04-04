@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "titulo": "Engenharia de Produção",
+        "instituicao": "Universidade Federal de São João Del Rei",
+        "periodo": "2017 - 2023"
+    },
+    {
+        "id": 2,
+        "titulo": "Yellow Belt - Lean Seis Sigma ",
+        "instituicao": "Grupo Voitto",
+        "periodo": "2021, Março"
+    },
+    {
+        "id": 3,
+        "titulo": "Formação Figma",
+        "instituicao": "Alura",
+        "periodo": "2023, Janeiro"
+    },
+    {
+        "id": 4,
+        "titulo": "Formação Design System",
+        "instituicao": "Alura",
+        "periodo": "2023, Fevereiro"
+    },
+    {
+        "id": 5,
+        "titulo":"HTML e CSS para Projetos WEB",
+        "instituicao": "Alura",
+        "periodo": "2023, Março"
+    },
+    {
+        "id": 6,
+        "titulo": "Desenvimento de aplicações WEB com JavaScript",
+        "instituicao": "Alura",
+        "periodo": "2023, Março"
+    },
+    {
+        "id": 7,
+        "titulo":"Especialista Lean Manufacturing",
+        "instituicao": "Grupo Voitto",
+        "periodo": "Em formação"
+    }
+
+]

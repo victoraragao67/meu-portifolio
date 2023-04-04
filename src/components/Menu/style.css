@@ -1,0 +1,17 @@
+.cabecalho {
+    display: flex;
+    justify-content: center;
+
+}
+
+.navBar {
+    display: flex;
+    border: 2px solid #F0F0F0;
+    gap: 1rem;
+    padding: 1rem 2rem;
+    margin: 1rem;
+    border-radius: 3rem;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+    list-style: none;
+}
+

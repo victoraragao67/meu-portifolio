@@ -1,0 +1,48 @@
+.fotoSobreMim {
+    margin-top: 2%;
+    border-radius: 2rem;
+    max-width: auto;
+    max-height: 400px;
+    display: flex;
+    margin-left: 10%;
+    transform: rotate(10deg);
+}
+
+.SobreMim {
+    display: flex;
+    justify-content: center;
+    color: #707070;
+    margin: 2rem 5% ;
+    text-align: justify;
+}
+
+.preTitulo {
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+
+.tituloSobreMim {
+    margin-top: 0;
+    font-size: 40px;
+}
+
+@media screen and (max-width: 720px) {
+    .SobreMim {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        color: #707070;
+        margin: 2rem 5% ;
+        text-align: justify;
+    }
+    .fotoSobreMim {
+        margin-top: 2%;
+        border-radius: 2rem;
+        max-width: 50%;
+        max-height: 50%;
+        display: flex;
+        margin-left: 25%;
+        transform: rotate(10deg);
+    }
+  }
