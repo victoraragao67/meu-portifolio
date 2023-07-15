@@ -6,10 +6,10 @@
         "periodo": "2017 - 2023"
     },
     {
-        "id": 2,
-        "titulo": "Yellow Belt - Lean Seis Sigma ",
+        "id": 7,
+        "titulo": "Especialista Lean Manufacturing",
         "instituicao": "Grupo Voitto",
-        "periodo": "2021, Março"
+        "periodo": "2023, Julho"
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
     },
     {
         "id": 5,
-        "titulo":"HTML e CSS para Projetos WEB",
+        "titulo": "HTML e CSS para Projetos WEB",
         "instituicao": "Alura",
         "periodo": "2023, Março"
     },
@@ -36,10 +36,9 @@
         "periodo": "2023, Março"
     },
     {
-        "id": 7,
-        "titulo":"Especialista Lean Manufacturing",
+        "id": 2,
+        "titulo": "Yellow Belt - Lean Seis Sigma ",
         "instituicao": "Grupo Voitto",
-        "periodo": "Em formação"
+        "periodo": "2021, Março"
     }
-
 ]

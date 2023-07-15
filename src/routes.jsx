@@ -1,5 +1,5 @@
 import PagHome from './components/Home/component';
-import './App.css';
+import styles from './App.module.css';
 import FooterContato from './components/Footer/component';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import ProjetosRealizados from './components/Projetos/component';
@@ -11,8 +11,8 @@ import MeusCertificados from './components/certificados/component';
 function AppRoutes() {
   return (
     
-      <div className="page-container">
-        <div className="content-wrap">
+      <div className={styles.pageContainer}>
+        <div className={styles.contentWrap}>
           <BrowserRouter>
             <MenuPrincipal />
             <Routes>
@@ -25,7 +25,7 @@ function AppRoutes() {
 
           </BrowserRouter>
         </div>
-        <footer className="footer"> <FooterContato /></footer>
+        <footer className={styles.footer}> <FooterContato /></footer>
       </div>
   );
 }

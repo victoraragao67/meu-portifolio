@@ -1,11 +1,11 @@
-.BoxError {
+.boxError {
     display: flex;
     justify-content: space-around;
     text-align: center;
     flex-direction: column;
 }
 
-.Titulo404 {
+.titulo404 {
     font-size: 2rem;
     text-transform: uppercase;
     color: #707070;
@@ -14,7 +14,7 @@
     margin-bottom: 0;
 }
 
-.Subtitulo404 {
+.subtitulo404 {
     color: #707070;
     font-weight: 300 ;
     margin-top: 1%;

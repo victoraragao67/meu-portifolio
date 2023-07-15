@@ -8,7 +8,7 @@
     transform: rotate(10deg);
 }
 
-.SobreMim {
+.sobreMim {
     display: flex;
     justify-content: center;
     color: #707070;
@@ -24,11 +24,12 @@
 
 .tituloSobreMim {
     margin-top: 0;
+    color: #ff8c00;
     font-size: 40px;
 }
 
 @media screen and (max-width: 720px) {
-    .SobreMim {
+    .sobreMim {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;

@@ -1,12 +1,12 @@
 import LinkMenu from '../linkMenu/component'
-import './style.css'
+import style from './Menu.module.css'
 
 function MenuPrincipal() {
     return (
         <>
-            <div className="cabecalho">
+            <div className={style.cabecalho}>
                 <nav >
-                    <ul className='navBar'>
+                    <ul className={style.navBar}>
                         <li><LinkMenu  to="/"> Inicio</LinkMenu></li>
                         <li><LinkMenu  to="/sobremim">Sobre</LinkMenu></li>
                         <li><LinkMenu  to="/projetos"> Projetos </LinkMenu></li>

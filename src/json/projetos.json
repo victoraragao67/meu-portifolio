@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "titulo": "Startup O Pico Certo",
+        "titulo": "Caledônia Tech - Atuação na startup O Pico Certo",
         "subtitulo": "Desenvolvedor FRONT END",
         "texto": "O Pico Certo é uma Startup que liga surfistas com o serviço com previsão de ondas personalizado, incluindo sugestões de picos perfeitos proporcionando momentos inesquecíveis com possibilidade de fotos fantásticas. Para isso foi desenvolvido o aplicativo que estuda as variáveis da natureza para prever onde estarão as melhores ondas e oferecem as informações através de App e grupos exclusivos de whatsapp. Pela startup foi possível o desenvolvimento de um aplicativo de previsão de ondas mobile first, via React Js e está, no momento, analisando os insights e dados gerados para evoluir a plataforma e adicionar novas funcionalidades como surf trips, venda de fotos, organização de eventos para o surf, base de fotógrafos e professores de surf. Nesse projeto pude atuar diretamente nas interfaces de registro de novos usuários, tal como cadastro e login. Além disso, fui o responsável pela criação das abas e seções de Perfil do usuário, usando métricas preenchidas pelo usuário anteriormente para gerar maior personalização dos serviços prestados pela plataforma."
     },
@@ -13,8 +13,8 @@
     },
     {
         "id": 3,
-        "titulo": "Colaboração Style Guide – Recicle Siri ",
+        "titulo": "Caledônia Tech - Atuação na Recicle Siri ",
         "subtitulo": "UX / UI Designer",
-        "texto": "O Siri é uma plataforma de logística reversa de resíduos recicláveis, que estabelece a conexão entre geradores residenciais, catadores, destinadores e apoiadores da causa. Através de um algoritmo inteligente de agrupamento de coletas a empresa visa aumentar a produtividade e renda dos catadores ao centralizar agendas e locais próximos, garantindo a sustentabilidade ao longo de toda a cadeia de reciclagem. Nesse projeto pude me aventurar via FIGMA na criação e desenvolvimento de Wire frames até prototipação da plataforma destinada aos catadores. Levando em consideração estudos de usabilidade da plataforma e facilidade de acesso, tal como a preservação da identidade visual da empresa."
+        "texto": "O Siri é uma plataforma de logística reversa de resíduos recicláveis, que estabelece a conexão entre geradores residenciais, catadores, destinadores e apoiadores da causa. Através de um algoritmo inteligente de agrupamento de coletas a empresa visa aumentar a produtividade e renda dos catadores ao centralizar agendas e locais próximos, garantindo a sustentabilidade ao longo de toda a cadeia de reciclagem. Nesse projeto pude me aventurar via FIGMA na criação e desenvolvimento de Wireframes até prototipação da plataforma destinada aos catadores. Levando em consideração estudos de usabilidade da plataforma e facilidade de acesso, tal como a preservação da identidade visual da empresa."
     }
 ]

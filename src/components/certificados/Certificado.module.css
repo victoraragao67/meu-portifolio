@@ -1,0 +1,73 @@
+.certificadosPage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0.5rem;
+    margin: 0 auto;
+    max-width: 80%;
+
+}
+
+.certificadosResumo {
+    text-indent: 1rem;
+    margin: auto;
+    max-width: 80%;
+    font-style: normal;
+    margin: 2rem auto;
+    color: #BDBDBD;
+    text-align: center;
+    text-align: justify;
+}
+
+
+.boxProjetos {
+    border: 3px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+    margin: 1rem;
+    padding: 0 0.5rem;
+    text-align: center;
+    background: #faf8f8;
+    border-radius: 8px;
+}
+
+.preTituloProjetos {
+    margin-top: 0rem;
+    font-weight: 300;
+}
+
+
+.tituloProjetos {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.botaoMaisMenos {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ffbf80;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.botaoMaisMenos:hover {
+    background-color: #ffac33;
+}
+
+.botaoMaisMenos:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 191, 128, 0.3);
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-bottom: 10%;
+
+}

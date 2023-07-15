@@ -1,0 +1,54 @@
+.fotoPerfil {
+  display: flex;
+  padding: 1.5rem;
+  margin-left: 10%;
+  max-width: 9rem;
+  min-height: 9rem;
+  border-radius: 10rem;
+}
+
+.quemSou h2 {
+  font-size: 32px;
+  margin: 0 auto 2% 5%;
+  color: #ff8c00;
+  font-weight: 700;
+}
+
+.subtitulo {
+  font-style: normal;
+  margin-top: 0.5rem;
+  color: #707070;
+  font-weight: 300;
+
+}
+
+.quemSou p {
+  margin: 1rem auto 3rem 5%;
+  max-width: 80%;
+  text-align: justify; 
+  font-style: normal;
+  color: #BDBDBD;
+}
+
+.botaoHome {
+  margin: 1rem auto 8% 5%;
+  padding: 1rem 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  background-color: #ff8c00;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botaoHome:hover {
+  background-color: #ff6a00;
+}
+
+.botaoHome:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 140, 0, 0.3);
+}

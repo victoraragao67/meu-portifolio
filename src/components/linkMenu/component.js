@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import './style.css'
+import style from './LinkMenu.module.css'
 
 
 function LinkMenu({children, to}) {
@@ -8,7 +8,7 @@ function LinkMenu({children, to}) {
 
         
         <NavLink className={({ isActive }) => `
-        ${isActive ? "linkDescatado" : "itemMenu"}
+        ${isActive ? style.linkDescatado : style.itemMenu}
     `}
         to={to}
         end>
