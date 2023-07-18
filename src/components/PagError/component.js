@@ -1,6 +1,6 @@
 import styles from './PagError.module.css'
 
-function PaginaComErro() {
+export function PaginaComErro() {
     return (
         <div className={styles.boxError}>
         <img className={styles.fotoTriste} src='/imagens/errorImagem.jpg' alt={"Pixar imagem"} />
@@ -10,4 +10,4 @@ function PaginaComErro() {
        
 )}
 
-export default PaginaComErro
+

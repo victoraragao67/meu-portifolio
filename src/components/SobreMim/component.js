@@ -2,7 +2,7 @@ import { ReactMarkdown } from 'react-markdown/lib/react-markdown';
 import styles from './Sobremim.module.css'
 import sobremim from "../../json/sobremim.json"
 
-function SobreVictor() {
+export function SobreVictor() {
     return (
         <div className={styles.sobreMim}>
             <div>
@@ -19,4 +19,4 @@ function SobreVictor() {
     )
 }
 
-export default SobreVictor;
+

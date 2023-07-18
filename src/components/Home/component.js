@@ -1,6 +1,6 @@
 import style from './Home.module.css'
 
-function PagHome() {
+export function PagHome() {
     return (
         <>
             <img className={style.fotoPerfil} src='/imagens/fundoPerfil.png' alt={"Victor Aragão"} />
@@ -21,4 +21,4 @@ function PagHome() {
     )
 }
 
-export default PagHome
+ 

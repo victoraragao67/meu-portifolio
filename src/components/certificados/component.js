@@ -4,7 +4,7 @@ import { ReactComponent as Certificado } from '../assets/la_certificate.svg'
 import { useState } from "react"
 
 
-function MeusCertificados() {
+export function MeusCertificados() {
     const [exibirCertificados, setExibirCertificados] = useState(false);
     const qntInicio = 4;
     const certificadosExibidos = exibirCertificados ? certificados : certificados.slice(0, qntInicio);
@@ -45,5 +45,3 @@ function MeusCertificados() {
 
     )
 }
-
-export default MeusCertificados

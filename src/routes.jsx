@@ -1,12 +1,12 @@
-import PagHome from './components/Home/component';
+import {PagHome} from './components/Home/component';
 import styles from './App.module.css';
-import FooterContato from './components/Footer/component';
+import {Rodape} from './components/Footer/component';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import ProjetosRealizados from './components/Projetos/component';
-import MenuPrincipal from './components/Menu/component';
-import PaginaComErro from './components/PagError/component';
-import SobreVictor from './components/SobreMim/component';
-import MeusCertificados from './components/certificados/component';
+import {ProjetosRealizados} from './components/Projetos/component';
+import {MenuPrincipal} from './components/Menu/component';
+import {PaginaComErro} from './components/PagError/component';
+import {SobreVictor} from './components/SobreMim/component';
+import {MeusCertificados} from './components/certificados/component';
 
 function AppRoutes() {
   return (
@@ -25,7 +25,7 @@ function AppRoutes() {
 
           </BrowserRouter>
         </div>
-        <footer className={styles.footer}> <FooterContato /></footer>
+        <footer className={styles.footer}> <Rodape /></footer>
       </div>
   );
 }

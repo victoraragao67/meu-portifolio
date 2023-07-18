@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import style from './LinkMenu.module.css'
 
 
-function LinkMenu({children, to}) {
+export function LinkMenu({children, to}) {
 
     return (
 
@@ -17,4 +17,3 @@ function LinkMenu({children, to}) {
     )
 }
 
-export default LinkMenu

@@ -6,7 +6,7 @@ import { ReactComponent as Figma } from '../assets/icons8-figma.svg'
 
 import style from './Footer.module.css'
 
-export default function Rodape() {
+export function Rodape() {
     return (
         <footer className={style.rodape}>
             <div className={style.icons}>

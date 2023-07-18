@@ -1,7 +1,7 @@
-import LinkMenu from '../linkMenu/component'
+import {LinkMenu} from '../linkMenu/component'
 import style from './Menu.module.css'
 
-function MenuPrincipal() {
+export function MenuPrincipal() {
     return (
         <>
             <div className={style.cabecalho}>
@@ -19,4 +19,4 @@ function MenuPrincipal() {
     )
 }
 
-export default MenuPrincipal
+
